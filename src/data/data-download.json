@@ -1,0 +1,2567 @@
+[
+    {
+        "region": "BALI NUSRA",
+        "location": "ALOR",
+        "avg_download_throughput": 10156.2333810628
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "BADUNG",
+        "avg_download_throughput": 16896.7927705315
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "BANGLI",
+        "avg_download_throughput": 14817.2639474543
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "BELU",
+        "avg_download_throughput": 11361.9037278214
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "BIMA",
+        "avg_download_throughput": 13655.08730081
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "KOTA KUPANG",
+        "avg_download_throughput": 12666.1509821394
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "KOTA MATARAM",
+        "avg_download_throughput": 16558.2925003363
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "KUPANG",
+        "avg_download_throughput": 10390.9102437011
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "LEMBATA",
+        "avg_download_throughput": 8214.13405869471
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "NAGEKEO",
+        "avg_download_throughput": 8373.67461324713
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "NGADA",
+        "avg_download_throughput": 10785.6454853386
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "ROTE NDAO",
+        "avg_download_throughput": 11195.7902951523
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "SABU RAIJUA",
+        "avg_download_throughput": 8877.47409132984
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "SIKKA",
+        "avg_download_throughput": 11650.5788391948
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "SUMBA BARAT",
+        "avg_download_throughput": 9674.33123264355
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "SUMBA BARAT DAYA",
+        "avg_download_throughput": 10057.6387023019
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "SUMBA TENGAH",
+        "avg_download_throughput": 8665.60852802517
+    },
+    {
+        "region": "CENTRAL JABOTABEK",
+        "location": "KOTA JAKARTA TIMUR",
+        "avg_download_throughput": 17050.9674538766
+    },
+    {
+        "region": "CENTRAL JABOTABEK",
+        "location": "KOTA JAKARTA UTARA",
+        "avg_download_throughput": 16250.3103367469
+    },
+    {
+        "region": "EASTERN JABOTABEK",
+        "location": "KARAWANG",
+        "avg_download_throughput": 15832.4071541251
+    },
+    {
+        "region": "EASTERN JABOTABEK",
+        "location": "KOTA BEKASI",
+        "avg_download_throughput": 16730.5891348661
+    },
+    {
+        "region": "EASTERN JABOTABEK",
+        "location": "KOTA BOGOR",
+        "avg_download_throughput": 16763.6933750602
+    },
+    {
+        "region": "JABAR",
+        "location": "BANDUNG",
+        "avg_download_throughput": 14983.8913250108
+    },
+    {
+        "region": "JABAR",
+        "location": "BANDUNG BARAT",
+        "avg_download_throughput": 14991.1619006908
+    },
+    {
+        "region": "JABAR",
+        "location": "CIAMIS",
+        "avg_download_throughput": 14079.3006971635
+    },
+    {
+        "region": "JABAR",
+        "location": "KOTA BANJAR",
+        "avg_download_throughput": 13315.3343810773
+    },
+    {
+        "region": "JABAR",
+        "location": "KOTA CIMAHI",
+        "avg_download_throughput": 14742.0352172047
+    },
+    {
+        "region": "JABAR",
+        "location": "KOTA CIREBON",
+        "avg_download_throughput": 16525.4338668264
+    },
+    {
+        "region": "JABAR",
+        "location": "SUMEDANG",
+        "avg_download_throughput": 14517.9545931881
+    },
+    {
+        "region": "JABAR",
+        "location": "TASIKMALAYA",
+        "avg_download_throughput": 13918.3668797249
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "BOYOLALI",
+        "avg_download_throughput": 12794.4691439195
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "BREBES",
+        "avg_download_throughput": 12940.6578609566
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "CILACAP",
+        "avg_download_throughput": 13993.8754105556
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "GUNUNG KIDUL",
+        "avg_download_throughput": 12634.0902314968
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "JEPARA",
+        "avg_download_throughput": 13262.8564246494
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "KARANGANYAR",
+        "avg_download_throughput": 13465.382323312
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "KOTA YOGYAKARTA",
+        "avg_download_throughput": 15734.3932684378
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "KUDUS",
+        "avg_download_throughput": 14229.7875138395
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "KULON PROGO",
+        "avg_download_throughput": 10627.5820739002
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "SEMARANG",
+        "avg_download_throughput": 14434.7197972855
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "SLEMAN",
+        "avg_download_throughput": 15655.5137577361
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "SRAGEN",
+        "avg_download_throughput": 13565.9831944673
+    },
+    {
+        "region": "JATIM",
+        "location": "BANGKALAN",
+        "avg_download_throughput": 13705.5552638643
+    },
+    {
+        "region": "JATIM",
+        "location": "BANYUWANGI",
+        "avg_download_throughput": 12450.1721640497
+    },
+    {
+        "region": "JATIM",
+        "location": "BLITAR",
+        "avg_download_throughput": 15068.8675804007
+    },
+    {
+        "region": "JATIM",
+        "location": "BOJONEGORO",
+        "avg_download_throughput": 12398.4789003901
+    },
+    {
+        "region": "JATIM",
+        "location": "BONDOWOSO",
+        "avg_download_throughput": 10841.5238205693
+    },
+    {
+        "region": "JATIM",
+        "location": "JOMBANG",
+        "avg_download_throughput": 13490.8855592756
+    },
+    {
+        "region": "JATIM",
+        "location": "KEDIRI",
+        "avg_download_throughput": 13036.4833708162
+    },
+    {
+        "region": "JATIM",
+        "location": "KOTA BATU",
+        "avg_download_throughput": 15454.7013135265
+    },
+    {
+        "region": "JATIM",
+        "location": "KOTA PASURUAN",
+        "avg_download_throughput": 13190.5333751296
+    },
+    {
+        "region": "JATIM",
+        "location": "KOTA PROBOLINGGO",
+        "avg_download_throughput": 10694.1127659823
+    },
+    {
+        "region": "JATIM",
+        "location": "KOTA SURABAYA",
+        "avg_download_throughput": 15469.9512586984
+    },
+    {
+        "region": "JATIM",
+        "location": "NGAWI",
+        "avg_download_throughput": 12292.7263481849
+    },
+    {
+        "region": "JATIM",
+        "location": "PACITAN",
+        "avg_download_throughput": 10189.0394045952
+    },
+    {
+        "region": "JATIM",
+        "location": "PAMEKASAN",
+        "avg_download_throughput": 13934.676086784
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "BANJAR",
+        "avg_download_throughput": 14638.3710713126
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "BARITO KUALA",
+        "avg_download_throughput": 14211.0623117921
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "BARITO SELATAN",
+        "avg_download_throughput": 14446.7361749059
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "HULU SUNGAI TENGAH",
+        "avg_download_throughput": 17722.4240043066
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "HULU SUNGAI UTARA",
+        "avg_download_throughput": 15746.3258214849
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KAPUAS",
+        "avg_download_throughput": 11648.0724808946
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KOTA BANJARMASIN",
+        "avg_download_throughput": 16102.6764842997
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KOTA BARU",
+        "avg_download_throughput": 13897.7624744377
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KOTA BONTANG",
+        "avg_download_throughput": 13053.7665187584
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KOTA PALANGKARAYA",
+        "avg_download_throughput": 15486.0461431649
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KOTA PONTIANAK",
+        "avg_download_throughput": 18094.1404664463
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KUTAI BARAT",
+        "avg_download_throughput": 11170.0898408094
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KUTAI KARTANEGARA",
+        "avg_download_throughput": 12078.6639162526
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KUTAI TIMUR",
+        "avg_download_throughput": 10693.8021072749
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "PASER",
+        "avg_download_throughput": 13300.401340607
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "PENAJAM PASER UTARA",
+        "avg_download_throughput": 15515.2518407781
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "PULANG PISAU",
+        "avg_download_throughput": 11659.4786936243
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "SAMBAS",
+        "avg_download_throughput": 15383.6744568271
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "TANAH BUMBU",
+        "avg_download_throughput": 14525.0392847328
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "TANAH LAUT",
+        "avg_download_throughput": 14503.9701357286
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "TAPIN",
+        "avg_download_throughput": 14570.0198601555
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "MANOKWARI SELATAN",
+        "avg_download_throughput": 9130.47308066806
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "MAPPI",
+        "avg_download_throughput": 1670.05523473836
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "MAYBRAT",
+        "avg_download_throughput": 8625.93030791535
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "MERAUKE",
+        "avg_download_throughput": 11705.7641277286
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "MIMIKA",
+        "avg_download_throughput": 8099.53387120029
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "NABIRE",
+        "avg_download_throughput": 7800.16866918848
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "PANIAI",
+        "avg_download_throughput": null
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "PEGUNUNGAN ARFAK",
+        "avg_download_throughput": null
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "PEGUNUNGAN BINTANG",
+        "avg_download_throughput": null
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "TELUK BINTUNI",
+        "avg_download_throughput": 9126.25501925058
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "TELUK WONDAMA",
+        "avg_download_throughput": 7946.20526086923
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "TOLIKARA",
+        "avg_download_throughput": null
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "WAROPEN",
+        "avg_download_throughput": 8661.66960912889
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "YAHUKIMO",
+        "avg_download_throughput": null
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "YALIMO",
+        "avg_download_throughput": null
+    },
+    {
+        "region": "SULAWESI",
+        "location": "BANGGAI",
+        "avg_download_throughput": 11598.9806236245
+    },
+    {
+        "region": "SULAWESI",
+        "location": "BANGGAI KEPULAUAN",
+        "avg_download_throughput": 7489.95866299137
+    },
+    {
+        "region": "SULAWESI",
+        "location": "BANGGAI LAUT",
+        "avg_download_throughput": 7216.24143252637
+    },
+    {
+        "region": "SULAWESI",
+        "location": "BONE",
+        "avg_download_throughput": 16127.7447493464
+    },
+    {
+        "region": "SULAWESI",
+        "location": "BONE BOLANGO",
+        "avg_download_throughput": 12572.2669361057
+    },
+    {
+        "region": "SULAWESI",
+        "location": "BULUKUMBA",
+        "avg_download_throughput": 12234.5661729373
+    },
+    {
+        "region": "SULAWESI",
+        "location": "JENEPONTO",
+        "avg_download_throughput": 13353.56001314
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KEPULAUAN SANGIHE",
+        "avg_download_throughput": 8636.04884622957
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KEPULAUAN SELAYAR",
+        "avg_download_throughput": 15453.1123301079
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KEPULAUAN SULA",
+        "avg_download_throughput": 9113.91492891999
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KEPULAUAN TALAUD",
+        "avg_download_throughput": 8552.36490293453
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KOLAKA",
+        "avg_download_throughput": 14229.8262917189
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KONAWE SELATAN",
+        "avg_download_throughput": 14776.4000807026
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KONAWE UTARA",
+        "avg_download_throughput": 12414.8368398716
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KOTA BAUBAU",
+        "avg_download_throughput": 14777.5167367029
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KOTA BITUNG",
+        "avg_download_throughput": 10633.831745587
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KOTA MAKASSAR",
+        "avg_download_throughput": 18529.5690807115
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KOTA MANADO",
+        "avg_download_throughput": 13129.4925907421
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KOTA PALOPO",
+        "avg_download_throughput": 13444.2981405339
+    },
+    {
+        "region": "SULAWESI",
+        "location": "MAMUJU TENGAH",
+        "avg_download_throughput": 8458.51870516806
+    },
+    {
+        "region": "SULAWESI",
+        "location": "MAMUJU UTARA",
+        "avg_download_throughput": 12144.8235839785
+    },
+    {
+        "region": "SULAWESI",
+        "location": "MAROS",
+        "avg_download_throughput": 16721.7487097664
+    },
+    {
+        "region": "SULAWESI",
+        "location": "MINAHASA UTARA",
+        "avg_download_throughput": 12610.0076861141
+    },
+    {
+        "region": "SULAWESI",
+        "location": "MOROWALI",
+        "avg_download_throughput": 8450.06146171451
+    },
+    {
+        "region": "SULAWESI",
+        "location": "MOROWALI UTARA",
+        "avg_download_throughput": 7412.40148915087
+    },
+    {
+        "region": "SULAWESI",
+        "location": "MUNA",
+        "avg_download_throughput": 13185.8154338144
+    },
+    {
+        "region": "SULAWESI",
+        "location": "MUNA BARAT",
+        "avg_download_throughput": 11001.1152277113
+    },
+    {
+        "region": "SULAWESI",
+        "location": "TOLI-TOLI",
+        "avg_download_throughput": 11529.22218138
+    },
+    {
+        "region": "SULAWESI",
+        "location": "TORAJA UTARA",
+        "avg_download_throughput": 12312.702132056
+    },
+    {
+        "region": "SULAWESI",
+        "location": "WAJO",
+        "avg_download_throughput": 16365.9242449359
+    },
+    {
+        "region": "SULAWESI",
+        "location": "WAKATOBI",
+        "avg_download_throughput": 13100.2988648194
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "BANGKA TENGAH",
+        "avg_download_throughput": 13337.5412631268
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "BANYU ASIN",
+        "avg_download_throughput": 13199.2874441944
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "BATANG HARI",
+        "avg_download_throughput": 11709.8511273983
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "KEPAHIANG",
+        "avg_download_throughput": 11365.8254954511
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "KERINCI",
+        "avg_download_throughput": 10181.4015086149
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "KOTA BANDAR LAMPUNG",
+        "avg_download_throughput": 13944.3965564949
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "KOTA SUNGAI PENUH",
+        "avg_download_throughput": 10744.2550215289
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "LAHAT",
+        "avg_download_throughput": 12550.3447204872
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "LAMPUNG BARAT",
+        "avg_download_throughput": 11233.1925315671
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "MUKOMUKO",
+        "avg_download_throughput": 11231.3429753894
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "MUSI BANYUASIN",
+        "avg_download_throughput": 12595.2785148753
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "MUSI RAWAS",
+        "avg_download_throughput": 12466.1903638567
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "OGAN KOMERING ULU",
+        "avg_download_throughput": 12648.0798258582
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "OGAN KOMERING ULU SELATAN",
+        "avg_download_throughput": 10940.0356733943
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "OGAN KOMERING ULU TIMUR",
+        "avg_download_throughput": 13573.827822209
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "WAY KANAN",
+        "avg_download_throughput": 9000.78911388684
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "AGAM",
+        "avg_download_throughput": 13379.3112278345
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "BENGKALIS",
+        "avg_download_throughput": 15302.9934029495
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "INDRAGIRI HULU",
+        "avg_download_throughput": 13551.623897149
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "KAMPAR",
+        "avg_download_throughput": 16781.747502993
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "KARIMUN",
+        "avg_download_throughput": 15506.1733062928
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "KOTA BUKITTINGGI",
+        "avg_download_throughput": 14076.8684704804
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "KOTA DUMAI",
+        "avg_download_throughput": 16131.0644596587
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "KOTA PAYAKUMBUH",
+        "avg_download_throughput": 13675.2530002734
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "KOTA PEKANBARU",
+        "avg_download_throughput": 23447.5148786607
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "KOTA SAWAH LUNTO",
+        "avg_download_throughput": 14865.2751441404
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "PESISIR SELATAN",
+        "avg_download_throughput": 13201.5593203253
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "ROKAN HILIR",
+        "avg_download_throughput": 13500.0033177635
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "ROKAN HULU",
+        "avg_download_throughput": 12692.8504721715
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "ACEH BESAR",
+        "avg_download_throughput": 15902.6205681919
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "ACEH JAYA",
+        "avg_download_throughput": 14643.9823323464
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "ACEH SELATAN",
+        "avg_download_throughput": 11241.0376827033
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "ACEH SINGKIL",
+        "avg_download_throughput": 14366.4067144599
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "BENER MERIAH",
+        "avg_download_throughput": 10695.4473997858
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "BIREUEN",
+        "avg_download_throughput": 13798.352529765
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "DAIRI",
+        "avg_download_throughput": 12260.0793589865
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "KOTA BANDA ACEH",
+        "avg_download_throughput": 17437.2801701573
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "KOTA BINJAI",
+        "avg_download_throughput": 18390.3672757055
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "KOTA GUNUNGSITOLI",
+        "avg_download_throughput": 13324.539266873
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "KOTA SIBOLGA",
+        "avg_download_throughput": 13376.5159117046
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "KOTA SUBULUSSALAM",
+        "avg_download_throughput": 10974.9166630368
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "KOTA TANJUNG BALAI",
+        "avg_download_throughput": 13488.1665979562
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "PIDIE",
+        "avg_download_throughput": 12873.6000601755
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "PIDIE JAYA",
+        "avg_download_throughput": 13932.0923173084
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "SAMOSIR",
+        "avg_download_throughput": 10985.2282831196
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "SERDANG BEDAGAI",
+        "avg_download_throughput": 18923.6485076883
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "TAPANULI TENGAH",
+        "avg_download_throughput": 12281.335621746
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "TAPANULI UTARA",
+        "avg_download_throughput": 12546.352643246
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "TOBA SAMOSIR",
+        "avg_download_throughput": 13259.3211744998
+    },
+    {
+        "region": "WESTERN JABOTABEK",
+        "location": "TANGERANG",
+        "avg_download_throughput": 15993.5283833395
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "BULELENG",
+        "avg_download_throughput": 15245.2183588121
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "DOMPU",
+        "avg_download_throughput": 12890.6640520165
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "ENDE",
+        "avg_download_throughput": 9808.14044362845
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "FLORES TIMUR",
+        "avg_download_throughput": 9684.03315634308
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "KLUNGKUNG",
+        "avg_download_throughput": 14478.2678946525
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "KOTA BIMA",
+        "avg_download_throughput": 15109.4684792292
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "KOTA DENPASAR",
+        "avg_download_throughput": 15597.2252971074
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "LOMBOK UTARA",
+        "avg_download_throughput": 15275.813411694
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "MALAKA",
+        "avg_download_throughput": 9528.79296260366
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "MANGGARAI",
+        "avg_download_throughput": 8626.14135904689
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "MANGGARAI BARAT",
+        "avg_download_throughput": 10493.2200745661
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "MANGGARAI TIMUR",
+        "avg_download_throughput": 10145.0178537941
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "TABANAN",
+        "avg_download_throughput": 18003.2216105933
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "TIMOR TENGAH SELATAN",
+        "avg_download_throughput": 9091.00281283654
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "TIMOR TENGAH UTARA",
+        "avg_download_throughput": 10647.4247365292
+    },
+    {
+        "region": "CENTRAL JABOTABEK",
+        "location": "KEPULAUAN SERIBU",
+        "avg_download_throughput": 19492.2695617511
+    },
+    {
+        "region": "EASTERN JABOTABEK",
+        "location": "PURWAKARTA",
+        "avg_download_throughput": 15884.6483841504
+    },
+    {
+        "region": "EASTERN JABOTABEK",
+        "location": "SUKABUMI",
+        "avg_download_throughput": 16199.2888673899
+    },
+    {
+        "region": "JABAR",
+        "location": "CIANJUR",
+        "avg_download_throughput": 15906.3790349022
+    },
+    {
+        "region": "JABAR",
+        "location": "CIREBON",
+        "avg_download_throughput": 14958.167548184
+    },
+    {
+        "region": "JABAR",
+        "location": "GARUT",
+        "avg_download_throughput": 14005.0866600528
+    },
+    {
+        "region": "JABAR",
+        "location": "MAJALENGKA",
+        "avg_download_throughput": 13606.1755523163
+    },
+    {
+        "region": "JABAR",
+        "location": "PANGANDARAN",
+        "avg_download_throughput": 16951.8628091829
+    },
+    {
+        "region": "JABAR",
+        "location": "SUBANG",
+        "avg_download_throughput": 14074.5038783953
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "BATANG",
+        "avg_download_throughput": 9948.31335144362
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "BLORA",
+        "avg_download_throughput": 13674.5230925857
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "KEBUMEN",
+        "avg_download_throughput": 13617.3206150864
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "KENDAL",
+        "avg_download_throughput": 13407.9101955789
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "KOTA SALATIGA",
+        "avg_download_throughput": 14247.4296055782
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "KOTA SEMARANG",
+        "avg_download_throughput": 16298.2770328357
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "MAGELANG",
+        "avg_download_throughput": 14901.4362326878
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "PATI",
+        "avg_download_throughput": 13306.3829211232
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "PURWOREJO",
+        "avg_download_throughput": 14766.0660471886
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "REMBANG",
+        "avg_download_throughput": 14144.0405931947
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "TEMANGGUNG",
+        "avg_download_throughput": 13846.6563609409
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "WONOGIRI",
+        "avg_download_throughput": 13210.6312237958
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "WONOSOBO",
+        "avg_download_throughput": 13171.10901852
+    },
+    {
+        "region": "JATIM",
+        "location": "KOTA BLITAR",
+        "avg_download_throughput": 14980.8541342723
+    },
+    {
+        "region": "JATIM",
+        "location": "KOTA KEDIRI",
+        "avg_download_throughput": 13935.8857140964
+    },
+    {
+        "region": "JATIM",
+        "location": "KOTA MADIUN",
+        "avg_download_throughput": 14748.2715917439
+    },
+    {
+        "region": "JATIM",
+        "location": "LAMONGAN",
+        "avg_download_throughput": 10907.290431094
+    },
+    {
+        "region": "JATIM",
+        "location": "LUMAJANG",
+        "avg_download_throughput": 13012.055067986
+    },
+    {
+        "region": "JATIM",
+        "location": "MOJOKERTO",
+        "avg_download_throughput": 12376.0455034928
+    },
+    {
+        "region": "JATIM",
+        "location": "NGANJUK",
+        "avg_download_throughput": 10466.7250173318
+    },
+    {
+        "region": "JATIM",
+        "location": "SAMPANG",
+        "avg_download_throughput": 14446.096264667
+    },
+    {
+        "region": "JATIM",
+        "location": "SIDOARJO",
+        "avg_download_throughput": 13791.2751600563
+    },
+    {
+        "region": "JATIM",
+        "location": "TUBAN",
+        "avg_download_throughput": 12975.9213532068
+    },
+    {
+        "region": "JATIM",
+        "location": "TULUNGAGUNG",
+        "avg_download_throughput": 13818.2125415563
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "BALANGAN",
+        "avg_download_throughput": 14768.7743224735
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "BARITO TIMUR",
+        "avg_download_throughput": 12794.684708218
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "BARITO UTARA",
+        "avg_download_throughput": 14208.4891101172
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "BENGKAYANG",
+        "avg_download_throughput": 17864.6237390265
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KAPUAS HULU",
+        "avg_download_throughput": 11699.1073254338
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KATINGAN",
+        "avg_download_throughput": 13411.592942561
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KAYONG UTARA",
+        "avg_download_throughput": 14130.5599975302
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KOTA SAMARINDA",
+        "avg_download_throughput": 12792.093883964
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KOTA SINGKAWANG",
+        "avg_download_throughput": 18057.5884861732
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KOTA TARAKAN",
+        "avg_download_throughput": 13504.3567843247
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "LAMANDAU",
+        "avg_download_throughput": 12666.4492406158
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "LANDAK",
+        "avg_download_throughput": 14498.8252616329
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "MAHAKAM ULU",
+        "avg_download_throughput": 7244.94481046101
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "MALINAU",
+        "avg_download_throughput": 13283.9458937438
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "MELAWI",
+        "avg_download_throughput": 9839.92972817562
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "SANGGAU",
+        "avg_download_throughput": 13895.1586668078
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "SEKADAU",
+        "avg_download_throughput": 12595.5875588347
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "SERUYAN",
+        "avg_download_throughput": 14137.7806904867
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "ASMAT",
+        "avg_download_throughput": 5181.71729483904
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "BIAK NUMFOR",
+        "avg_download_throughput": 13466.5475851023
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "BOVEN DIGOEL",
+        "avg_download_throughput": 4218.3321830624
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "BURU",
+        "avg_download_throughput": 12065.7997116307
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "BURU SELATAN",
+        "avg_download_throughput": 9441.97453417113
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "DEIYAI",
+        "avg_download_throughput": null
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "DOGIYAI",
+        "avg_download_throughput": null
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "FAKFAK",
+        "avg_download_throughput": 11843.85378625
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "INTAN JAYA",
+        "avg_download_throughput": null
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "JAYAPURA",
+        "avg_download_throughput": 12532.9596459533
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "PUNCAK",
+        "avg_download_throughput": null
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "PUNCAK JAYA",
+        "avg_download_throughput": null
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "RAJA AMPAT",
+        "avg_download_throughput": 12988.2234018801
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "SARMI",
+        "avg_download_throughput": 11517.5368471574
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "SERAM BAGIAN BARAT",
+        "avg_download_throughput": 9075.79058166267
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "SERAM BAGIAN TIMUR",
+        "avg_download_throughput": 10494.5295752597
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "SORONG",
+        "avg_download_throughput": 13051.8160824329
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "SORONG SELATAN",
+        "avg_download_throughput": 9119.87260178068
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "SUPIORI",
+        "avg_download_throughput": 11969.4204163572
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "TAMBRAUW",
+        "avg_download_throughput": null
+    },
+    {
+        "region": "SULAWESI",
+        "location": "BANTAENG",
+        "avg_download_throughput": 13449.0738760733
+    },
+    {
+        "region": "SULAWESI",
+        "location": "BARRU",
+        "avg_download_throughput": 15379.7314654408
+    },
+    {
+        "region": "SULAWESI",
+        "location": "BOALEMO",
+        "avg_download_throughput": 11284.0791448094
+    },
+    {
+        "region": "SULAWESI",
+        "location": "BUOL",
+        "avg_download_throughput": 9070.11220879197
+    },
+    {
+        "region": "SULAWESI",
+        "location": "BUTON",
+        "avg_download_throughput": 12253.2145418781
+    },
+    {
+        "region": "SULAWESI",
+        "location": "BUTON SELATAN",
+        "avg_download_throughput": 12930.5627506795
+    },
+    {
+        "region": "SULAWESI",
+        "location": "BUTON TENGAH",
+        "avg_download_throughput": 11097.5475060464
+    },
+    {
+        "region": "SULAWESI",
+        "location": "BUTON UTARA",
+        "avg_download_throughput": 8849.12425678041
+    },
+    {
+        "region": "SULAWESI",
+        "location": "DONGGALA",
+        "avg_download_throughput": 13510.3736081085
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KOLAKA TIMUR",
+        "avg_download_throughput": 15430.7986246213
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KOLAKA UTARA",
+        "avg_download_throughput": 13258.1256519383
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KONAWE",
+        "avg_download_throughput": 13848.6079685637
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KONAWE KEPULAUAN",
+        "avg_download_throughput": 15004.486454843
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KOTA PALU",
+        "avg_download_throughput": 13777.4451493873
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KOTA PAREPARE",
+        "avg_download_throughput": 15254.1080857744
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KOTA TERNATE",
+        "avg_download_throughput": 13035.8410944974
+    },
+    {
+        "region": "SULAWESI",
+        "location": "MINAHASA",
+        "avg_download_throughput": 12542.6491213408
+    },
+    {
+        "region": "SULAWESI",
+        "location": "MINAHASA SELATAN",
+        "avg_download_throughput": 12146.3515104249
+    },
+    {
+        "region": "SULAWESI",
+        "location": "MINAHASA TENGGARA",
+        "avg_download_throughput": 11415.4260632578
+    },
+    {
+        "region": "SULAWESI",
+        "location": "POLEWALI MANDAR",
+        "avg_download_throughput": 12851.4090514036
+    },
+    {
+        "region": "SULAWESI",
+        "location": "POSO",
+        "avg_download_throughput": 10164.2620590388
+    },
+    {
+        "region": "SULAWESI",
+        "location": "PULAU MOROTAI",
+        "avg_download_throughput": 10886.8234325038
+    },
+    {
+        "region": "SULAWESI",
+        "location": "PULAU TALIABU",
+        "avg_download_throughput": 7655.89136845316
+    },
+    {
+        "region": "SULAWESI",
+        "location": "SIAU TAGULANDANG BIARO",
+        "avg_download_throughput": 7604.52108575966
+    },
+    {
+        "region": "SULAWESI",
+        "location": "SOPPENG",
+        "avg_download_throughput": 15029.5598626371
+    },
+    {
+        "region": "SULAWESI",
+        "location": "TAKALAR",
+        "avg_download_throughput": 14664.0537454381
+    },
+    {
+        "region": "SULAWESI",
+        "location": "TANA TORAJA",
+        "avg_download_throughput": 13229.6945162506
+    },
+    {
+        "region": "SULAWESI",
+        "location": "TOJO UNA-UNA",
+        "avg_download_throughput": 10128.425525353
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "BANGKA",
+        "avg_download_throughput": 11509.6759966329
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "BANGKA BARAT",
+        "avg_download_throughput": 11207.9380422685
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "BANGKA SELATAN",
+        "avg_download_throughput": 12034.9563311227
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "BENGKULU UTARA",
+        "avg_download_throughput": 11878.5096629903
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "BUNGO",
+        "avg_download_throughput": 12106.3022898666
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "EMPAT LAWANG",
+        "avg_download_throughput": 11720.1623374514
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "KAUR",
+        "avg_download_throughput": 11039.3076411868
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "KOTA LUBUKLINGGAU",
+        "avg_download_throughput": 12976.8307876248
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "KOTA METRO",
+        "avg_download_throughput": 11754.0729757646
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "KOTA PAGAR ALAM",
+        "avg_download_throughput": 11890.6532911046
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "KOTA PALEMBANG",
+        "avg_download_throughput": 15247.0977586653
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "KOTA PANGKAL PINANG",
+        "avg_download_throughput": 14071.8721381843
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "KOTA PRABUMULIH",
+        "avg_download_throughput": 14244.0925696283
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "LAMPUNG UTARA",
+        "avg_download_throughput": 10456.1231332968
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "LEBONG",
+        "avg_download_throughput": 11737.8319420976
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "MERANGIN",
+        "avg_download_throughput": 11057.1910142234
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "MUSI RAWAS UTARA",
+        "avg_download_throughput": 8848.14612678505
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "OGAN ILIR",
+        "avg_download_throughput": 12906.8144462676
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "OGAN KOMERING ILIR",
+        "avg_download_throughput": 13778.8655848319
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "PENUKAL ABAB LEMATANG ILIR",
+        "avg_download_throughput": 11893.2077202209
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "PESAWARAN",
+        "avg_download_throughput": 11418.7875753893
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "PESISIR BARAT",
+        "avg_download_throughput": 10820.9591316249
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "PRINGSEWU",
+        "avg_download_throughput": 11657.7639456933
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "TEBO",
+        "avg_download_throughput": 9974.3558082318
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "TULANG BAWANG BARAT",
+        "avg_download_throughput": 11858.2709601852
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "TULANGBAWANG",
+        "avg_download_throughput": 9828.61539038724
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "KEPULAUAN ANAMBAS",
+        "avg_download_throughput": 7839.1155398525
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "KEPULAUAN MENTAWAI",
+        "avg_download_throughput": 13333.6664551187
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "KEPULAUAN MERANTI",
+        "avg_download_throughput": 12997.2338383671
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "KOTA BATAM",
+        "avg_download_throughput": 16363.3239450241
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "KOTA PADANG",
+        "avg_download_throughput": 16627.141681755
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "KOTA PADANG PANJANG",
+        "avg_download_throughput": 13536.809544865
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "KOTA PARIAMAN",
+        "avg_download_throughput": 13306.8983500194
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "LIMA PULUH KOTA",
+        "avg_download_throughput": 12921.6434992867
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "LINGGA",
+        "avg_download_throughput": 13136.5926951126
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "NATUNA",
+        "avg_download_throughput": 13004.0727196754
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "PADANG PARIAMAN",
+        "avg_download_throughput": 14394.3446913149
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "S I A K",
+        "avg_download_throughput": 14477.552045686
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "SIJUNJUNG",
+        "avg_download_throughput": 13325.8245262431
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "SOLOK",
+        "avg_download_throughput": 12909.240057832
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "ACEH UTARA",
+        "avg_download_throughput": 12602.0123470807
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "ASAHAN",
+        "avg_download_throughput": 13164.300511241
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "BATU BARA",
+        "avg_download_throughput": 13248.8130680612
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "KOTA LANGSA",
+        "avg_download_throughput": 15162.1885619379
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "KOTA LHOKSEUMAWE",
+        "avg_download_throughput": 14218.5333329628
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "KOTA MEDAN",
+        "avg_download_throughput": 19755.5678939488
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "KOTA PADANGSIDIMPUAN",
+        "avg_download_throughput": 12480.5027106645
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "KOTA PEMATANG SIANTAR",
+        "avg_download_throughput": 14482.7443820591
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "KOTA SABANG",
+        "avg_download_throughput": 14307.0314801513
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "LABUHAN BATU UTARA",
+        "avg_download_throughput": 12193.9246592173
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "LANGKAT",
+        "avg_download_throughput": 17852.892389822
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "MANDAILING NATAL",
+        "avg_download_throughput": 11337.2939332435
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "NAGAN RAYA",
+        "avg_download_throughput": 11595.2502883813
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "SIMALUNGUN",
+        "avg_download_throughput": 13896.5820812934
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "SIMEULUE",
+        "avg_download_throughput": 13118.193035778
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "TAPANULI SELATAN",
+        "avg_download_throughput": 11549.6910289793
+    },
+    {
+        "region": "WESTERN JABOTABEK",
+        "location": "KOTA TANGERANG SELATAN",
+        "avg_download_throughput": 16633.0211949817
+    },
+    {
+        "region": "WESTERN JABOTABEK",
+        "location": "LEBAK",
+        "avg_download_throughput": 16231.5989340955
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "GIANYAR",
+        "avg_download_throughput": 18011.9555045729
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "JEMBRANA",
+        "avg_download_throughput": 15029.2511901924
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "KARANG ASEM",
+        "avg_download_throughput": 15234.6128322307
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "LOMBOK BARAT",
+        "avg_download_throughput": 15954.6002570788
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "LOMBOK TENGAH",
+        "avg_download_throughput": 13212.9806399103
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "LOMBOK TIMUR",
+        "avg_download_throughput": 14492.2548353113
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "SUMBA TIMUR",
+        "avg_download_throughput": 10061.9632490814
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "SUMBAWA",
+        "avg_download_throughput": 13361.0098694239
+    },
+    {
+        "region": "BALI NUSRA",
+        "location": "SUMBAWA BARAT",
+        "avg_download_throughput": 15440.5864642139
+    },
+    {
+        "region": "CENTRAL JABOTABEK",
+        "location": "KOTA JAKARTA BARAT",
+        "avg_download_throughput": 17195.7035918308
+    },
+    {
+        "region": "CENTRAL JABOTABEK",
+        "location": "KOTA JAKARTA PUSAT",
+        "avg_download_throughput": 17765.0234981724
+    },
+    {
+        "region": "CENTRAL JABOTABEK",
+        "location": "KOTA JAKARTA SELATAN",
+        "avg_download_throughput": 18193.0276927428
+    },
+    {
+        "region": "EASTERN JABOTABEK",
+        "location": "BEKASI",
+        "avg_download_throughput": 14935.6313536689
+    },
+    {
+        "region": "EASTERN JABOTABEK",
+        "location": "BOGOR",
+        "avg_download_throughput": 15772.7132330474
+    },
+    {
+        "region": "EASTERN JABOTABEK",
+        "location": "KOTA DEPOK",
+        "avg_download_throughput": 15999.7828309376
+    },
+    {
+        "region": "EASTERN JABOTABEK",
+        "location": "KOTA SUKABUMI",
+        "avg_download_throughput": 17376.806705718
+    },
+    {
+        "region": "JABAR",
+        "location": "INDRAMAYU",
+        "avg_download_throughput": 15500.8223722362
+    },
+    {
+        "region": "JABAR",
+        "location": "KOTA BANDUNG",
+        "avg_download_throughput": 17736.0627323492
+    },
+    {
+        "region": "JABAR",
+        "location": "KOTA TASIKMALAYA",
+        "avg_download_throughput": 14485.2475880574
+    },
+    {
+        "region": "JABAR",
+        "location": "KUNINGAN",
+        "avg_download_throughput": 14899.2206230836
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "BANJARNEGARA",
+        "avg_download_throughput": 13244.274091688
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "BANTUL",
+        "avg_download_throughput": 12815.3192563154
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "BANYUMAS",
+        "avg_download_throughput": 13430.5969191527
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "DEMAK",
+        "avg_download_throughput": 12886.2176105038
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "GROBOGAN",
+        "avg_download_throughput": 14268.6513570992
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "KLATEN",
+        "avg_download_throughput": 13786.8233562519
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "KOTA MAGELANG",
+        "avg_download_throughput": 16601.1892272153
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "KOTA PEKALONGAN",
+        "avg_download_throughput": 10602.084921879
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "KOTA SURAKARTA",
+        "avg_download_throughput": 15192.0821799804
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "KOTA TEGAL",
+        "avg_download_throughput": 13782.5411026758
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "PEKALONGAN",
+        "avg_download_throughput": 10418.8137457622
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "PEMALANG",
+        "avg_download_throughput": 11994.7026302612
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "PURBALINGGA",
+        "avg_download_throughput": 12808.2015249527
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "SUKOHARJO",
+        "avg_download_throughput": 14137.2426586752
+    },
+    {
+        "region": "JATENG-DIY",
+        "location": "TEGAL",
+        "avg_download_throughput": 13375.6080173569
+    },
+    {
+        "region": "JATIM",
+        "location": "GRESIK",
+        "avg_download_throughput": 11202.877782613
+    },
+    {
+        "region": "JATIM",
+        "location": "JEMBER",
+        "avg_download_throughput": 14148.0989071501
+    },
+    {
+        "region": "JATIM",
+        "location": "KOTA MALANG",
+        "avg_download_throughput": 16347.8222671923
+    },
+    {
+        "region": "JATIM",
+        "location": "KOTA MOJOKERTO",
+        "avg_download_throughput": 14715.4781926343
+    },
+    {
+        "region": "JATIM",
+        "location": "MADIUN",
+        "avg_download_throughput": 13401.8465235321
+    },
+    {
+        "region": "JATIM",
+        "location": "MAGETAN",
+        "avg_download_throughput": 13863.6632392353
+    },
+    {
+        "region": "JATIM",
+        "location": "MALANG",
+        "avg_download_throughput": 13850.7417270471
+    },
+    {
+        "region": "JATIM",
+        "location": "PASURUAN",
+        "avg_download_throughput": 13985.0017154429
+    },
+    {
+        "region": "JATIM",
+        "location": "PONOROGO",
+        "avg_download_throughput": 11093.1841882373
+    },
+    {
+        "region": "JATIM",
+        "location": "PROBOLINGGO",
+        "avg_download_throughput": 10509.2903542511
+    },
+    {
+        "region": "JATIM",
+        "location": "SITUBONDO",
+        "avg_download_throughput": 12688.7891770879
+    },
+    {
+        "region": "JATIM",
+        "location": "SUMENEP",
+        "avg_download_throughput": 13427.8325866673
+    },
+    {
+        "region": "JATIM",
+        "location": "TRENGGALEK",
+        "avg_download_throughput": 12558.5376689555
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "BERAU",
+        "avg_download_throughput": 11374.849410232
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "BULUNGAN",
+        "avg_download_throughput": 11731.4880406937
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "GUNUNG MAS",
+        "avg_download_throughput": 11460.4571519613
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "HULU SUNGAI SELATAN",
+        "avg_download_throughput": 15575.3298736999
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KETAPANG",
+        "avg_download_throughput": 13812.3057790715
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KOTA BALIKPAPAN",
+        "avg_download_throughput": 16293.8717266972
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KOTA BANJAR BARU",
+        "avg_download_throughput": 16361.7744983078
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KOTAWARINGIN BARAT",
+        "avg_download_throughput": 16241.5513962911
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KOTAWARINGIN TIMUR",
+        "avg_download_throughput": 14197.2083361794
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "KUBU RAYA",
+        "avg_download_throughput": 15489.461640563
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "MEMPAWAH",
+        "avg_download_throughput": 18421.0252127962
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "MURUNG RAYA",
+        "avg_download_throughput": 12679.3029895248
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "NUNUKAN",
+        "avg_download_throughput": 10737.2535617934
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "SINTANG",
+        "avg_download_throughput": 13896.1656226725
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "SUKAMARA",
+        "avg_download_throughput": 13027.6752414932
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "TABALONG",
+        "avg_download_throughput": 14110.357345785
+    },
+    {
+        "region": "KALIMANTAN",
+        "location": "TANA TIDUNG",
+        "avg_download_throughput": 12014.1075520677
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "JAYAWIJAYA",
+        "avg_download_throughput": 2709.94592424812
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "KAIMANA",
+        "avg_download_throughput": 12043.9998552432
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "KEEROM",
+        "avg_download_throughput": 8694.65068984204
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "KEPULAUAN ARU",
+        "avg_download_throughput": 10495.9727476146
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "KEPULAUAN YAPEN",
+        "avg_download_throughput": 8048.40262269366
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "KOTA AMBON",
+        "avg_download_throughput": 12955.4324817667
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "KOTA JAYAPURA",
+        "avg_download_throughput": 12285.4065862319
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "KOTA SORONG",
+        "avg_download_throughput": 14539.8182276213
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "KOTA TUAL",
+        "avg_download_throughput": 11322.542013986
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "LANNY JAYA",
+        "avg_download_throughput": null
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "MALUKU BARAT DAYA",
+        "avg_download_throughput": 7744.2163587594
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "MALUKU TENGAH",
+        "avg_download_throughput": 11301.1867152925
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "MALUKU TENGGARA",
+        "avg_download_throughput": 10386.572711045
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "MALUKU TENGGARA BARAT",
+        "avg_download_throughput": 9410.15365938073
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "MAMBERAMO RAYA",
+        "avg_download_throughput": null
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "MAMBERAMO TENGAH",
+        "avg_download_throughput": null
+    },
+    {
+        "region": "MALUKU DAN PAPUA",
+        "location": "MANOKWARI",
+        "avg_download_throughput": 9316.30605798427
+    },
+    {
+        "region": "SULAWESI",
+        "location": "BOLAANG MONGONDOW",
+        "avg_download_throughput": 11006.6703406072
+    },
+    {
+        "region": "SULAWESI",
+        "location": "BOLAANG MONGONDOW SELATAN",
+        "avg_download_throughput": 10271.2803144359
+    },
+    {
+        "region": "SULAWESI",
+        "location": "BOLAANG MONGONDOW TIMUR",
+        "avg_download_throughput": 8658.39999181022
+    },
+    {
+        "region": "SULAWESI",
+        "location": "BOLAANG MONGONDOW UTARA",
+        "avg_download_throughput": 10509.6238570313
+    },
+    {
+        "region": "SULAWESI",
+        "location": "BOMBANA",
+        "avg_download_throughput": 13172.4376786292
+    },
+    {
+        "region": "SULAWESI",
+        "location": "ENREKANG",
+        "avg_download_throughput": 13537.3030805719
+    },
+    {
+        "region": "SULAWESI",
+        "location": "GORONTALO",
+        "avg_download_throughput": 11592.0230984873
+    },
+    {
+        "region": "SULAWESI",
+        "location": "GORONTALO UTARA",
+        "avg_download_throughput": 10098.8230022537
+    },
+    {
+        "region": "SULAWESI",
+        "location": "GOWA",
+        "avg_download_throughput": 16142.5907735421
+    },
+    {
+        "region": "SULAWESI",
+        "location": "HALMAHERA BARAT",
+        "avg_download_throughput": 10805.3683646484
+    },
+    {
+        "region": "SULAWESI",
+        "location": "HALMAHERA SELATAN",
+        "avg_download_throughput": 7815.56226032942
+    },
+    {
+        "region": "SULAWESI",
+        "location": "HALMAHERA TENGAH",
+        "avg_download_throughput": 8970.85498627047
+    },
+    {
+        "region": "SULAWESI",
+        "location": "HALMAHERA TIMUR",
+        "avg_download_throughput": 11014.9208488905
+    },
+    {
+        "region": "SULAWESI",
+        "location": "HALMAHERA UTARA",
+        "avg_download_throughput": 10217.0616851279
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KOTA GORONTALO",
+        "avg_download_throughput": 12666.4844615165
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KOTA KENDARI",
+        "avg_download_throughput": 15723.115536896
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KOTA KOTAMOBAGU",
+        "avg_download_throughput": 10178.5274222895
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KOTA TIDORE KEPULAUAN",
+        "avg_download_throughput": 13151.5152149145
+    },
+    {
+        "region": "SULAWESI",
+        "location": "KOTA TOMOHON",
+        "avg_download_throughput": 12045.1460730233
+    },
+    {
+        "region": "SULAWESI",
+        "location": "LUWU",
+        "avg_download_throughput": 12385.406192433
+    },
+    {
+        "region": "SULAWESI",
+        "location": "LUWU TIMUR",
+        "avg_download_throughput": 12205.5046959401
+    },
+    {
+        "region": "SULAWESI",
+        "location": "LUWU UTARA",
+        "avg_download_throughput": 10143.1170410081
+    },
+    {
+        "region": "SULAWESI",
+        "location": "MAJENE",
+        "avg_download_throughput": 12834.617824901
+    },
+    {
+        "region": "SULAWESI",
+        "location": "MAMASA",
+        "avg_download_throughput": 11088.395974374
+    },
+    {
+        "region": "SULAWESI",
+        "location": "MAMUJU",
+        "avg_download_throughput": 12813.3870414503
+    },
+    {
+        "region": "SULAWESI",
+        "location": "PANGKAJENE DAN KEPULAUAN",
+        "avg_download_throughput": 14898.3842956167
+    },
+    {
+        "region": "SULAWESI",
+        "location": "PARIGI MOUTONG",
+        "avg_download_throughput": 10404.8832928472
+    },
+    {
+        "region": "SULAWESI",
+        "location": "PINRANG",
+        "avg_download_throughput": 17416.3162818286
+    },
+    {
+        "region": "SULAWESI",
+        "location": "POHUWATO",
+        "avg_download_throughput": 11020.7546335233
+    },
+    {
+        "region": "SULAWESI",
+        "location": "SIDENRENG RAPPANG",
+        "avg_download_throughput": 16853.0918695377
+    },
+    {
+        "region": "SULAWESI",
+        "location": "SIGI",
+        "avg_download_throughput": 12851.287399244
+    },
+    {
+        "region": "SULAWESI",
+        "location": "SINJAI",
+        "avg_download_throughput": 14443.6027516972
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "BELITUNG",
+        "avg_download_throughput": 13613.8312430741
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "BELITUNG TIMUR",
+        "avg_download_throughput": 10467.5756620386
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "BENGKULU SELATAN",
+        "avg_download_throughput": 12267.4402726675
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "BENGKULU TENGAH",
+        "avg_download_throughput": 14235.6175414804
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "KOTA BENGKULU",
+        "avg_download_throughput": 13436.093814861
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "KOTA JAMBI",
+        "avg_download_throughput": 15555.0232547658
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "LAMPUNG SELATAN",
+        "avg_download_throughput": 12623.5605993746
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "LAMPUNG TENGAH",
+        "avg_download_throughput": 11553.8180203941
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "LAMPUNG TIMUR",
+        "avg_download_throughput": 11479.4986350132
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "MESUJI",
+        "avg_download_throughput": 7903.00442400811
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "MUARA ENIM",
+        "avg_download_throughput": 11826.9243400579
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "MUARO JAMBI",
+        "avg_download_throughput": 12918.6944975617
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "REJANG LEBONG",
+        "avg_download_throughput": 12648.7131591232
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "SAROLANGUN",
+        "avg_download_throughput": 10043.9068952144
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "SELUMA",
+        "avg_download_throughput": 11632.6715807312
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "TANGGAMUS",
+        "avg_download_throughput": 10956.2652101763
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "TANJUNG JABUNG BARAT",
+        "avg_download_throughput": 9915.9231078126
+    },
+    {
+        "region": "SUMBAGSEL",
+        "location": "TANJUNG JABUNG TIMUR",
+        "avg_download_throughput": 10647.6575750285
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "BINTAN",
+        "avg_download_throughput": 15942.2558330497
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "DHARMASRAYA",
+        "avg_download_throughput": 12884.2826038282
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "INDRAGIRI HILIR",
+        "avg_download_throughput": 12251.5978775146
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "KOTA SOLOK",
+        "avg_download_throughput": 14616.7819202284
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "KOTA TANJUNG PINANG",
+        "avg_download_throughput": 15737.2052503335
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "KUANTAN SINGINGI",
+        "avg_download_throughput": 13114.3105180838
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "PASAMAN",
+        "avg_download_throughput": 12095.0479261486
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "PASAMAN BARAT",
+        "avg_download_throughput": 12072.5215972648
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "PELALAWAN",
+        "avg_download_throughput": 13608.814609059
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "SOLOK SELATAN",
+        "avg_download_throughput": 13363.240242328
+    },
+    {
+        "region": "SUMBAGTENG",
+        "location": "TANAH DATAR",
+        "avg_download_throughput": 13756.0798144405
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "ACEH BARAT",
+        "avg_download_throughput": 13380.3209691086
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "ACEH BARAT DAYA",
+        "avg_download_throughput": 13274.9237964292
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "ACEH TAMIANG",
+        "avg_download_throughput": 14739.2587157248
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "ACEH TENGAH",
+        "avg_download_throughput": 11842.6585660217
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "ACEH TENGGARA",
+        "avg_download_throughput": 10533.7617576903
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "ACEH TIMUR",
+        "avg_download_throughput": 13922.9565029891
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "DELI SERDANG",
+        "avg_download_throughput": 17470.5198596614
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "GAYO LUES",
+        "avg_download_throughput": 8761.14351160008
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "HUMBANG HASUNDUTAN",
+        "avg_download_throughput": 10491.0854938122
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "KARO",
+        "avg_download_throughput": 14190.3871997658
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "KOTA TEBING TINGGI",
+        "avg_download_throughput": 18117.0211388868
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "LABUHAN BATU",
+        "avg_download_throughput": 12796.1889156084
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "LABUHAN BATU SELATAN",
+        "avg_download_throughput": 13108.5493394503
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "NIAS",
+        "avg_download_throughput": 10564.8418907105
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "NIAS BARAT",
+        "avg_download_throughput": 11084.762653033
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "NIAS SELATAN",
+        "avg_download_throughput": 11774.9731582635
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "NIAS UTARA",
+        "avg_download_throughput": 12349.3475511827
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "PADANG LAWAS",
+        "avg_download_throughput": 10321.3857693896
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "PADANG LAWAS UTARA",
+        "avg_download_throughput": 9967.67863734995
+    },
+    {
+        "region": "SUMBAGUT",
+        "location": "PAKPAK BHARAT",
+        "avg_download_throughput": 11256.0899616884
+    },
+    {
+        "region": "WESTERN JABOTABEK",
+        "location": "KOTA CILEGON",
+        "avg_download_throughput": 15925.125216741
+    },
+    {
+        "region": "WESTERN JABOTABEK",
+        "location": "KOTA SERANG",
+        "avg_download_throughput": 16105.4118631766
+    },
+    {
+        "region": "WESTERN JABOTABEK",
+        "location": "KOTA TANGERANG",
+        "avg_download_throughput": 15868.5459347221
+    },
+    {
+        "region": "WESTERN JABOTABEK",
+        "location": "PANDEGLANG",
+        "avg_download_throughput": 15648.3419382115
+    },
+    {
+        "region": "WESTERN JABOTABEK",
+        "location": "SERANG",
+        "avg_download_throughput": 14801.8080947856
+    }
+]
