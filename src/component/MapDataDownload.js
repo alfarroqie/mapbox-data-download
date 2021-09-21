@@ -30,41 +30,52 @@ export default function MapDataDownload() {
     setZoom(map.current.getZoom().toFixed(2));
     });
   });
-  //polygon
+  //POLYGON
   useEffect(() => {
     if (!map.current) return; // wait for map to initialize
-    map.current.on('load', () => {
+    map.current.on('load', async () => {
+      //MAPPING DATA DOWNLOAD TO FEATURE GEOJSON
+      const dataGeojson = await (await fetch(kabupatenGeojson)).json();
+      dataGeojson.features.forEach((feature) => {
+        const dataDownloadKabupaten = dataDownload.find(item => item.location === feature.properties.KABUPATEN); //find data download matching with feature kabupaten
+        if (dataDownloadKabupaten === undefined || dataDownloadKabupaten.avg_download_throughput === null){ //handle null and not found data avg download
+          feature.properties.AVG_DOWNLOAD = 0;
+        } else {
+          feature.properties.AVG_DOWNLOAD = (Math.round(dataDownloadKabupaten.avg_download_throughput * 100)/100);
+        }
+      });
+      // // MAPPING DATA DOWNLOAD (namun karena tidak semua data di geojson terdapat data downloadnya, maka terdapat warning ketika nampilkan warna polygonnya)
+      // dataDownload.forEach((data) => {
+      //   let index = dataGeojson.features.findIndex(f => f.properties.KABUPATEN === data.location);  //find index in features geojson with data download location
+      //   if (data.avg_download_throughput === null){
+      //     dataGeojson.features[index].properties.AVG_DOWNLOAD = 0; //added avg download properties  
+      //   } else {
+      //     dataGeojson.features[index].properties.AVG_DOWNLOAD = (Math.round(data.avg_download_throughput * 100)/100); //added avg download properties after rounded 2 decimal
+      //   }
+      // })
+
+      //ADD GEOJSON SOURCE TO MAP
       map.current.addSource('kabupaten', {
         'type': 'geojson',
-        'data': kabupatenGeojson,
-        'promoteId': 'KABUPATEN'
+        'data': dataGeojson,
+        'promoteId': 'ID_KAB'
       });
-      //mapping data download to feature state
-      dataDownload.forEach((data) => {
-        map.current.setFeatureState({
-          source: 'kabupaten',
-          id: data.location,
-        },
-        {
-          AVG_DOWNLOAD: data.avg_download_throughput
-        })
-      });
-      //fill cities layer
+      //LAYER FILL-CITIES (kabupaten)
       map.current.addLayer({
         'id': 'fill-cities',
         'type': 'fill',
-        'source': 'kabupaten', // reference the data source
+        'source': 'kabupaten',
         'layout': {},
         'paint': {
           'fill-color': [
             'case',
-            ['>', ['feature-state', 'AVG_DOWNLOAD'], 15000],
+            ['>', ['get', 'AVG_DOWNLOAD'], 15000],
             '#B71C1C',
-            ['>=', ['feature-state', 'AVG_DOWNLOAD'], 10000],
+            ['>=', ['get', 'AVG_DOWNLOAD'], 10000],
             '#EF5350',
-            ['>=', ['feature-state', 'AVG_DOWNLOAD'], 5000],
+            ['>=', ['get', 'AVG_DOWNLOAD'], 5000],
             '#FFCDD2',
-            ['>=', ['feature-state', 'AVG_DOWNLOAD'], 0],
+            ['>=', ['get', 'AVG_DOWNLOAD'], 0],
             '#FFEBEE',
             '#FFFFFF'
           ],
@@ -76,7 +87,7 @@ export default function MapDataDownload() {
             ]
         }
       });
-      //outline cities layer
+      //LAYER OUTLINE-CITIES (kabupaten)
       map.current.addLayer({
         'id': 'outline-cities',
         'type': 'line',
@@ -87,6 +98,7 @@ export default function MapDataDownload() {
         'line-width': 0.5
         }
       });
+      //LAYER NAME-CITIES (KABUPATEN)
       map.current.addLayer({
         'id': 'name-of-cities',
         'type': 'symbol',
@@ -106,6 +118,7 @@ export default function MapDataDownload() {
   useEffect(() => {
     if(!map.current) return;
      var hoverKabId = null;
+     //HOVER BASED ON MOUSE MOVEMENT
      map.current.on('mousemove', 'fill-cities', (e) => {
        if (e.features.length > 0) {
          if (hoverKabId !== null) {
@@ -121,8 +134,6 @@ export default function MapDataDownload() {
          );
        }
      });
-     // When the mouse leaves the state-fill layer, update the feature state of the
-     // previously hovered feature.
      map.current.on('mouseleave', 'fill-cities', () => {
        if (hoverKabId !== null) {
          map.current.setFeatureState(
@@ -139,26 +150,15 @@ export default function MapDataDownload() {
       closeButton: false,
       closeOnClick: false
     });
-    //hover for popup
+    //POPUP ON HOVER
     map.current.on('mousemove', 'fill-cities', (e) => {
-      // Change the cursor style as a UI indicator.
       map.current.getCanvas().style.cursor = 'pointer';
-      
-      // Copy coordinates array.
       const { lat, lng } = e.lngLat;
       // const coordinates = e.features[0].geometry.coordinates.slice();
       const region = e.features[0].properties.REGION;
       const kabupaten = e.features[0].properties.KABUPATEN;
-      const avgDownload = e.features[0].state.AVG_DOWNLOAD;
-      // // Ensure that if the map is zoomed out such that multiple
-      // // copies of the feature are visible, the popup appears
-      // // over the copy being pointed to.
-      // while (Math.abs(e.lngLat.lng - coordinates) > 180) {
-      //   coordinates += e.lngLat.lng > coordinates ? 360 : -360;
-      // }
-      
-      // Populate the popup and set its coordinates
-      // based on the feature found.
+      const avgDownload = e.features[0].properties.AVG_DOWNLOAD;
+      // SET CONTENT POPUP
       popup.setLngLat([lng, lat]).setHTML(
         `
           <h1>REGION: <b>${region} </b></h1>
@@ -173,7 +173,6 @@ export default function MapDataDownload() {
     });
   })
   
-
   return (
   <div>
     <div className="map-info">
