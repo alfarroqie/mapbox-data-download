@@ -2,15 +2,16 @@ import React, { useRef, useEffect, useState } from 'react';
 import mapboxgl from '!mapbox-gl'; // eslint-disable-line import/no-webpack-loader-syntax
 
 import kabupatenGeojson from '../data/kabupaten.geojson'
+import dataDownload from '../data/data-download.json'
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiY2hvY29vcmVvIiwiYSI6ImNrdDgxZG5ibzB4dGkycGxqZmU0YnNuMzEifQ.smJZQqkcsSI_Su9WCxbQvQ'
 
 export default function MapDataDownload() {
   const mapContainer = useRef(null);
   const map = useRef(null);
-  const [lng, setLng] = useState(117.5780);
-  const [lat, setLat] = useState(-4.4580);
-  const [zoom, setZoom] = useState(4.0);
+  const [lng, setLng] = useState(110.7043);
+  const [lat, setLat] = useState(-7.0525);
+  const [zoom, setZoom] = useState(6.18);
 
   useEffect(() => {
     if (map.current) return; // initialize map only once
@@ -36,8 +37,26 @@ export default function MapDataDownload() {
     map.current.on('load', () => {
       map.current.addSource('kabupaten', {
         'type': 'geojson',
-        'data': kabupatenGeojson
+        'data': kabupatenGeojson,
+        'promoteId': 'ID_KAB'
       });
+      //fill cities layer
+      map.current.addLayer({
+        'id': 'fill-cities',
+        'type': 'fill',
+        'source': 'kabupaten', // reference the data source
+        'layout': {},
+        'paint': {
+          'fill-color': 'red', // red color fill
+          'fill-opacity': [
+            'case',
+            ['boolean', ['feature-state', 'hover'], false],
+            0.6,
+            0.3
+            ]
+        }
+      });
+      //outline cities layer
       map.current.addLayer({
         'id': 'outline-cities',
         'type': 'line',
@@ -47,16 +66,6 @@ export default function MapDataDownload() {
         'line-color': '#000',
         'line-width': 0.5
         }
-      });
-      map.current.addLayer({
-        'id': 'fill-cities',
-        'type': 'fill',
-        'source': 'kabupaten', // reference the data source
-        'layout': {},
-        'paint': {
-          'fill-color': 'red', // red color fill
-          'fill-opacity': 0.1
-        },
       });
       map.current.addLayer({
         'id': 'name-of-cities',
@@ -71,6 +80,36 @@ export default function MapDataDownload() {
           'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold']
           }
         });
+
+      //hover
+      var hoverKabId = null;
+      map.current.on('mousemove', 'fill-cities', (e) => {
+        if (e.features.length > 0) {
+          if (hoverKabId !== null) {
+            map.current.setFeatureState(
+            { source: 'kabupaten', id: hoverKabId },
+            { hover: false }
+            );
+          }
+          hoverKabId = e.features[0].id;
+          map.current.setFeatureState(
+          { source: 'kabupaten', id: hoverKabId },
+          { hover: true }
+          );
+        }
+      });
+        
+      // When the mouse leaves the state-fill layer, update the feature state of the
+      // previously hovered feature.
+      map.current.on('mouseleave', 'fill-cities', () => {
+        if (hoverKabId !== null) {
+          map.current.setFeatureState(
+          { source: 'kabupaten', id: hoverKabId },
+          { hover: false }
+          );
+        }
+        hoverKabId = null;
+      });
     });
   });
 
