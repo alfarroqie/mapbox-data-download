@@ -11,7 +11,7 @@ export default function MapDataDownload() {
   const [lng, setLng] = useState(110.7043);
   const [lat, setLat] = useState(-7.0525);
   const [zoom, setZoom] = useState(6.18);
-
+  //INIT MAP
   useEffect(() => {
     if (map.current) return; // initialize map only once
     map.current = new mapboxgl.Map({
@@ -37,7 +37,7 @@ export default function MapDataDownload() {
       //MAPPING DATA DOWNLOAD TO FEATURE GEOJSON
       const dataGeojson = await (await fetch(kabupatenGeojson)).json();
       dataGeojson.features.forEach((feature) => {
-        const dataDownloadKabupaten = dataDownload.find(item => item.location === feature.properties.KABUPATEN); //find data download matching with feature kabupaten
+        const dataDownloadKabupaten = dataDownload.find(item => item.location === feature.properties.KABUPATEN); //find data download location matching with feature kabupaten
         if (dataDownloadKabupaten === undefined || dataDownloadKabupaten.avg_download_throughput === null){ //handle null and not found data avg download
           feature.properties.AVG_DOWNLOAD = 0;
         } else {
@@ -58,7 +58,7 @@ export default function MapDataDownload() {
       map.current.addSource('kabupaten', {
         'type': 'geojson',
         'data': dataGeojson,
-        'promoteId': 'ID_KAB'
+        'promoteId': 'ID_KAB' //untuk dapat memakai setFeatureState pada hover
       });
       //LAYER FILL-CITIES (kabupaten)
       map.current.addLayer({
@@ -114,60 +114,55 @@ export default function MapDataDownload() {
         });
     });
   });
-  //HOVER
+  //HOVER  AND POPUP
   useEffect(() => {
     if(!map.current) return;
-     var hoverKabId = null;
-     //HOVER BASED ON MOUSE MOVEMENT
-     map.current.on('mousemove', 'fill-cities', (e) => {
-       if (e.features.length > 0) {
-         if (hoverKabId !== null) {
-           map.current.setFeatureState(
-           { source: 'kabupaten', id: hoverKabId },
-           { hover: false }
-           );
-         }
-         hoverKabId = e.features[0].id;
-         map.current.setFeatureState(
-         { source: 'kabupaten', id: hoverKabId },
-         { hover: true }
-         );
-       }
-     });
-     map.current.on('mouseleave', 'fill-cities', () => {
-       if (hoverKabId !== null) {
-         map.current.setFeatureState(
-         { source: 'kabupaten', id: hoverKabId },
-         { hover: false }
-         );
-       }
-       hoverKabId = null;
-     });
-  })
-  //POPUP
-  useEffect(() => {
+    //INIT POPUP
     const popup = new mapboxgl.Popup({
       closeButton: false,
       closeOnClick: false
     });
-    //POPUP ON HOVER
+    var hoverKabId = null;
     map.current.on('mousemove', 'fill-cities', (e) => {
+      //HOVER EFFECT
+      if (e.features.length > 0) {
+        if (hoverKabId !== null) {
+          map.current.setFeatureState(
+          { source: 'kabupaten', id: hoverKabId },
+          { hover: false }
+          );
+        }
+        hoverKabId = e.features[0].id;
+        map.current.setFeatureState(
+        { source: 'kabupaten', id: hoverKabId },
+        { hover: true }
+        );
+      }
+      //POPUP EFFECT
       map.current.getCanvas().style.cursor = 'pointer';
       const { lat, lng } = e.lngLat;
-      // const coordinates = e.features[0].geometry.coordinates.slice();
       const region = e.features[0].properties.REGION;
       const kabupaten = e.features[0].properties.KABUPATEN;
       const avgDownload = e.features[0].properties.AVG_DOWNLOAD;
       // SET CONTENT POPUP
       popup.setLngLat([lng, lat]).setHTML(
         `
-          <h1>REGION: <b>${region} </b></h1>
-          <h1> KABUPATEN: <b>${kabupaten}</b></h1>
-          <h1> AVERAGE DOWNLOAD: <b>${avgDownload}</b></h1>
+          <h1>REGION <br><b>${region}</b></h1>
+          <h1> KABUPATEN <br><b>${kabupaten}</b></h1>
+          <h1> AVERAGE DOWNLOAD <br><b>${avgDownload}</b></h1>
         `
         ).addTo(map.current);
     });
     map.current.on('mouseleave', 'fill-cities', () => {
+      //HOVER EFFECT
+      if (hoverKabId !== null) {
+        map.current.setFeatureState(
+        { source: 'kabupaten', id: hoverKabId },
+        { hover: false }
+        );
+      }
+      hoverKabId = null;
+      //POPUP EFFECT
       map.current.getCanvas().style.cursor = '';
       popup.remove();
     });
