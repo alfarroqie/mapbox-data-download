@@ -4,6 +4,8 @@ import mapboxgl from '!mapbox-gl'; // eslint-disable-line import/no-webpack-load
 import kabupatenGeojson from './data/kabupaten.geojson'
 import dataDownload from './data/data-download.json'
 
+import { Button } from 'antd';
+
 mapboxgl.accessToken = 'pk.eyJ1IjoiY2hvY29vcmVvIiwiYSI6ImNrdDgxZG5ibzB4dGkycGxqZmU0YnNuMzEifQ.smJZQqkcsSI_Su9WCxbQvQ'
 
 export default function MapDataDownload() {
@@ -182,6 +184,24 @@ export default function MapDataDownload() {
       popup.remove();
     });
   })
+
+  //Layer visibility
+  function outlineCities() {
+    const visibility = map.current.getLayoutProperty('outline-cities', 'visibility');
+    if(visibility === 'visible') {
+      map.current.setLayoutProperty('outline-cities','visibility', 'none')
+    } else {
+      map.current.setLayoutProperty('outline-cities','visibility', 'visible')
+    }
+  }
+  function fillCities() {
+    const visibility = map.current.getLayoutProperty('fill-cities', 'visibility');
+    if(visibility === 'visible') {
+      map.current.setLayoutProperty('fill-cities','visibility', 'none')
+    } else {
+      map.current.setLayoutProperty('fill-cities','visibility', 'visible')
+    }
+  }
   
   return (
     <>
@@ -191,6 +211,8 @@ export default function MapDataDownload() {
       </div>
       <div ref={mapContainer} className="map-container" />
       <div className="map-overlay" id="legend"></div>
+      <Button onClick={outlineCities}>Outline Layer</Button>
+      <Button onClick={fillCities}>Fill Layer</Button>
     </div>
     </>
   );
